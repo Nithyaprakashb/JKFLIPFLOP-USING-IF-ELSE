@@ -56,11 +56,11 @@ Register no:212224050026
 
 
 **RTL LOGIC FOR FLIPFLOPS**
-![ex 7a](https://github.com/user-attachments/assets/c4a58cfe-8623-4aa0-a455-22ec03011547)
+![image](https://github.com/user-attachments/assets/6c94a2c0-f0ea-44e4-ae5c-b1121af46c94)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![ex 7b](https://github.com/user-attachments/assets/4beab6ed-8b39-4421-855c-5f338007fb75)
+![image](https://github.com/user-attachments/assets/a451208e-15e8-4b80-8bbf-78ea5931f290)
 
 
 **RESULTS**
